@@ -1,4 +1,4 @@
-package leetCode_DSA_Problems;
+package binarySearch;
 
 import org.testng.annotations.Test;
 
